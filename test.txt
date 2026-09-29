@@ -1,1 +1,5 @@
-hello,Iam Ashraful from Mgit kokapet, Gandipet,Telangana.
+c1          c2
+Ashraful    30
+Abdul       29
+salman      10
+Prasad      18
